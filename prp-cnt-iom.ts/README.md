@@ -38,3 +38,5 @@ These notebooks are designed for Google Colab, which includes most common packag
 
 pip install numpy pandas scikit-image scikit-learn opencv-python matplotlib seaborn image-quality pyexiftool
 
+Based on referee feedback, a single consolidated notebook named sem_quality_analysis_combined.ipynb has been added. It contains clean, PEP 8-compliant code with clear inline comments, combining all analysis steps for SEM image quality evaluation.
+
